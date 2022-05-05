@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @js4guiar
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonathan.aguiar@ubc.org.br
 
 <!---
